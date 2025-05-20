@@ -1,3 +1,7 @@
-# chemprop-extrapolation
+# Chemprop: Aggregation and extrapolation
 
-Follow up to the post "Why Don't Machine Learning Models Extrapolate?" investigating the use of a "norm" aggregator and custom featurizers
+Blog: https://medium.com/@dinhlong240600/chemprop-aggregation-and-extrapolation-57c3169ee273
+
+# Acknowlegdement
+
+This code is mainly inherted from: https://github.com/iGotsIt/chemprop-extrapolation, with a little modification to conduct my analysis:
